@@ -20,7 +20,7 @@ const store = createStore(reducer);
 
 ReactDOM.render( 
     <Provider store={store}>
-      <Router>
+      <Router basename="/react-chat">
         <Header/>
         <Suspense fallback={<Loading/>}>
           <Switch>
