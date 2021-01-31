@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-chat"]=this["webpackJsonpreact-chat"]||[]).push([[7],{152:function(t,e,n){"use strict";n.r(e),n.d(e,"default",(function(){return s}));var c=n(5),a=n(51),r=n(52),u=n(54),i=n(53),o=n(1),s=function(t){Object(u.a)(n,t);var e=Object(i.a)(n);function n(){return Object(a.a)(this,n),e.apply(this,arguments)}return Object(r.a)(n,[{key:"render",value:function(){return Object(c.jsx)("h1",{children:"Page Not Found"})}}]),n}(n.n(o).a.Component)}}]);
+//# sourceMappingURL=7.9d63c51e.chunk.js.map
